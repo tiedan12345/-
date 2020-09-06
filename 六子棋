@@ -1,6 +1,6 @@
 #ifndef GAMEMODEL_H
 #define GAMEMODEL_H
-// ---- 五子棋游戏模型类 ---- //
+// ---- 六子棋游戏模型类 ---- //
 #include <vector>
 
 // 游戏类型，双人还是AI（目前固定让AI下黑子）
